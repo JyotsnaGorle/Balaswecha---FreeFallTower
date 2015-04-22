@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BallContainer.qml</file>
+        <file>ExperimentTable.qml</file>
+        <file>MonkeyTree.qml</file>
+        <file>Ball.qml</file>
+        <file>BallsKit.qml</file>
+        <file>Button2.qml</file>
+        <file>properties.js</file>
+        <file>WeighingMachine.qml</file>
+        <file>main.cpp</file>
+        <file>images/cottonball.png</file>
+        <file>images/football.png</file>
+        <file>images/golfball.png</file>
+        <file>images/ironball.png</file>
+        <file>images/ruler.png</file>
+        <file>images/scale.png</file>
+        <file>images/monkey.png</file>
+        <file>images/monkeyTail.png</file>
+        <file>images/monkeyTree.png</file>
+        <file>event_handler.js</file>
+        <file>Bubble.qml</file>
+        <file>images/bubble.png</file>
+        <file>images/logo.png</file>
+        <file>images/clock.png</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>
